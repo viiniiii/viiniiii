@@ -20,7 +20,7 @@
 <img src="django.svg" alt="django" width="40" height="40"/>
 <img src="angular.svg" alt="angular" width="40" height="40"/>
 <img src="java.svg" alt="java" width="40" height="40"/>
-<img src="c++.svg" alt="c++" width="40" height="40"/>
+<img src="c.svg" alt="c++" width="40" height="40"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viiniiii&show_icons=true&locale=en&layout=compact" alt="vini" /></p>
