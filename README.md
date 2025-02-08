@@ -24,4 +24,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viiniiii&show_icons=true&locale=en&layout=compact" alt="vini" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniiii&show_icons=true&locale=en" alt="vini" /></p>
