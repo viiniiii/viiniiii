@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/62326e6c-d5f0-4baf-963b-d37f5b620e5f)<h1 align="center">Hi there 👋, I'm Edvin</h1>
+<h1 align="center">Hi there 👋, I'm Edvin</h1>
 <h3 align="center">A passionate front-end developer </h3>
 
 - I’m a student at **University of Tirana**
