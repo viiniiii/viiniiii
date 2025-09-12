@@ -13,11 +13,10 @@
 
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/>
 <img src="css3.svg" alt="css" width="40" height="40"/>
-<img src="bootstrap.svg" alt="bootstrap" width="40" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQksrtKnDva4vVZppqEoZ1qYyg4Asf81vD3Mg&s" alt="bootstrap" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="django.svg" alt="django" width="40" height="40"/>
 <img src="angular.svg" alt="angular" width="40" height="40"/>
 <img src="java.svg" alt="java" width="40" height="40"/>
 <img src="c.svg" alt="c++" width="40" height="40"/>
