@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Edvin</h1>
-<h3 align="center">A passionate front-end developer </h3>
+<h3 align="center">A passionate front-end developer and a data science enthusiast</h3>
 
 - I’m a student at **University of Tirana**
 
