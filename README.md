@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Edvin</h1>
 <h3 align="center">A passionate front-end developer and a data science enthusiast</h3>
 
-- I’m a student at **University of Tirana**
+- I’m a student at **Free University of Berlin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
