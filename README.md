@@ -1,7 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Edvin</h1>
 <h3 align="center">A passionate data scientist and front-end developer.</h3>
 
-- I’m a student at **Free University of Berlin**
+- I’m a master’s student at **Freie Universität Berlin** for Data Science.
+- I studied Business Informatics during my bachelor’s degree.
+- My professional experience is primarily in front-end development.
+- I'm transitioning into Data Science and Analytics roles applied particularly in Finance.
+- Finance has a special place in my heart and I'm always interested in the newest trends.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
